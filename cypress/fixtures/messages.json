@@ -1,4 +1,8 @@
 {
   "title" : "Review our product",
-  "name" : "Full name"
+  "name" : "Full name",
+  "phone" : "Phone Number",
+  "eval" : "Do you think your product or service is affordable or expensive?", 
+  "rate" : "Rate our services",
+  "reviewDate" : "Review date" 
 }
